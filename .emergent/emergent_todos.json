@@ -1,0 +1,34 @@
+[
+  {
+    "content": "Install deps (gsap, lenis, three, split-type) and configure Tailwind tokens + Google Fonts (Geist)",
+    "status": "completed"
+  },
+  {
+    "content": "Build shared components: Loader, Nav, Footer, CustomCursor, MagneticButton, SectionHeading",
+    "status": "completed"
+  },
+  {
+    "content": "Build 10 Home sections with proper GSAP reveals, 3D scenes (Hero icosahedron, Product panel), horizontal pinned Process",
+    "status": "completed"
+  },
+  {
+    "content": "Build /contact and /consultancy routes with localStorage persistence and form validation",
+    "status": "completed"
+  },
+  {
+    "content": "Fix R3F x-line-number crash (rewrote scenes in vanilla three.js)",
+    "status": "completed"
+  },
+  {
+    "content": "Add light-mode CSS overrides for dark-first Tailwind classes",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: All user stories covered in development",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: End-to-End testing via testing_agent_v3 and fix any issues found",
+    "status": "in_progress"
+  }
+]
